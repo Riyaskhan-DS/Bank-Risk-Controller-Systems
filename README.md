@@ -81,6 +81,12 @@ The target variable in the dataset is **`TARGET`**, indicating whether the custo
 
 ## 📸 Screenshots  
 
+![Screenshot 2024-12-06 101754](https://github.com/user-attachments/assets/c52e7bc5-8230-4aa9-98fd-a3a1d8c5dc34)
+![Screenshot 2024-12-06 105447](https://github.com/user-attachments/assets/d9c731f8-e6af-4483-8e21-9249ab975416)
+![Screenshot 2024-12-06 101442](https://github.com/user-attachments/assets/233e4716-bcec-41fe-99ca-77c74a67e8a0)
+![Screenshot 2024-12-09 193536](https://github.com/user-attachments/assets/9b0b023d-617b-4eef-a5ce-5b8064da1be5)
+
+
 1. **📂 Data and Metrics Display**  
    - Showcase of dataset and model performance metrics.  
 
